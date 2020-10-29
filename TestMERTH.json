@@ -1,6 +1,6 @@
 {
     "name": "Jungle Gym",
-    "age": 25,
+    "age": 2544,
     "favorite_color": "#ffa500",
     "gender": "male",
     "location": {
@@ -14,8 +14,8 @@
         "name": "Foo"
       },
       {
-        "type": "cat",
-        "name": "Bar"
+        "type": "cat44444",
+        "name": "Bar123"
       }
     ]
   }
